@@ -41,5 +41,6 @@ o	The percentage of 10th-12th grade students passing math, reading and both from
 o	Schools with more than 2,000 students (large) have the worst performance on math and overall passing. It could mean that smalls classes are more successful than others.
 o	Type of school must be considered to make good decisions. Definitely charter schools performance is highly superior than district schools. The percentage overall passing on district schools is around half of the percentage on charter schools. 
 
+![image](https://user-images.githubusercontent.com/107591542/178334302-f6bc10ce-8e12-4e12-b2d0-3933b22660b8.png)
 
  
