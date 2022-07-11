@@ -14,9 +14,9 @@ In other words, as a result of this project we have to analyze how the performan
 
 o	The district summary before and after changing don’t shows any difference. It could mean that district data has the same trend with or without that data from Thomas High Schools 9TH grade. It could need a deeper analysis but it seems that there are nothing wrong on that grade
 
- 
+ ![image](https://user-images.githubusercontent.com/107591542/178333878-025ccb03-65c5-4974-b762-79610cdad7f7.png)
+![image](https://user-images.githubusercontent.com/107591542/178333987-d8c4a404-e803-4f48-b209-27d2952d4ba9.png)
 
- 
 
 o	School summary for Thomas HS shows a very different result. The original results show a percentage of students that passed math and reading around 90% but when 9th grade is removed the new percentage is 65%. 
 
