@@ -22,10 +22,10 @@ o	School summary for Thomas HS shows a very different result. The original resul
 
 The same trend is observed on math (decreased from 93% to 67%) and reading (decreased from 97% to 70%). It could be that there is something wrong in that grade. It might be an error, or there is something illegal in that class. It needs extra analysis
 
+![image](https://user-images.githubusercontent.com/107591542/178334083-5a1babf3-f928-4074-98d5-44e08f148327.png)
 
  
-
- 
+![image](https://user-images.githubusercontent.com/107591542/178334155-4aa72952-8eb1-4827-9c23-2dd381505db0.png)
 
 
 o	Replacing the ninth grader’s math and reading scores on Thomas High School makes that others get a better position in the schools ranking because its high scores. It could have implications on budget or academics decisions.  
